@@ -1,3 +1,5 @@
+-- module script
+
 type GunConfig = {
 	MAG_SIZE: number,
 	FIRE_RATE: number,
